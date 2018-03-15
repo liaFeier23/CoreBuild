@@ -1,0 +1,5 @@
+model\Ship.class
+service\JsonReader.class
+Compute.class
+model\Hero.class
+model\Planet.class
